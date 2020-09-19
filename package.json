@@ -1,0 +1,23 @@
+{
+  "name": "launcer-space",
+  "version": "1.0.0",
+  "description": "Coding Assignment",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "bootstrap": "^4.5.2",
+    "next": "^9.5.3",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.3.0",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {},
+  "author": "Sudheer K B",
+  "license": "ISC"
+}
