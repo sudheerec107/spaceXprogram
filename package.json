@@ -2,13 +2,11 @@
   "name": "launcer-space",
   "version": "1.0.0",
   "description": "Coding Assignment",
-  "main": "index.js",
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start -p $PORT",
-    "heroku-postbuild": "npm run build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "heroku-postbuild": "npm run build"
   },
   "dependencies": {
     "axios": "^0.20.0",
